@@ -1,1 +1,15 @@
+title: Sean Collier
+email: hello@seancollier.ca
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://www.seancollier.ca  # the base hostname and protocol for your site, e.g. http://example.com
+domain: seancollier.ca # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+github_username:  SmartieMcfly
+
+# Build settings
 theme: jekyll-theme-modernist
+plugins:
+  - jekyll-feed
